@@ -1,0 +1,23 @@
+{
+  "arquivo_entrada": "chuva_horaria.csv",
+  "linhas_lidas": 567379,
+  "datas_invalidas": 0,
+  "chuvas_nao_numericas_ou_ausentes": 0,
+  "valores_negativos": 0,
+  "registros_fora_da_grade_10min": 0,
+  "linhas_em_horarios_duplicados": 0,
+  "inicio": "2014-12-17 20:00:00",
+  "fim": "2025-09-30 23:00:00",
+  "frequencia_original_minutos": 10,
+  "marca_temporal_original": "fim",
+  "intervalos_10min_na_grade": 567379,
+  "intervalos_10min_validos": 567379,
+  "intervalos_10min_ausentes": 0,
+  "horas_na_grade": 94564,
+  "horas_validas": 94563,
+  "horas_ausentes": 1,
+  "dias_na_serie": 3941,
+  "dias_completos": 3939,
+  "dias_incompletos": 2,
+  "dias_chuvosos_completos": 1750
+}

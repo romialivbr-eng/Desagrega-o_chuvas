@@ -1,0 +1,17 @@
+RESUMO AUTOMÁTICO — MÁXIMAS ANUAIS 2024–2025
+
+1. O ranking principal exclui 24 h e usa 4 e 12 h, as durações subdiárias disponíveis em todas as resoluções.
+2. Melhor configuração DL no escopo comum: GRU_2h_3d, RMSE = 16.41 mm, MAE = 15.32 mm, ME = -15.32 mm e viés = -17.08%.
+3. Basso Subquente-D, considerando todas as durações subdiárias, apresentou RMSE = 38.78 mm, ME = 31.97 mm, viés = 47.68% e superestimou 100.0% dos casos. Nas durações comuns de 4 e 12 h, o melhor DL reduziu o RMSE em 51.7% em relação a esse método.
+4. Dick-Peschke, considerando todas as durações subdiárias, apresentou RMSE = 37.09 mm, ME = 30.78 mm, viés = 45.91% e superestimou 100.0% dos casos. Nas durações comuns de 4 e 12 h, o melhor DL reduziu o RMSE em 49.0% em relação a esse método.
+
+Melhores configurações DL por resolução:
+- 1 h: GRU_1h_3d — RMSE 19.38 mm, ME -15.68 mm (subestimação).
+- 2 h: GRU_2h_3d — RMSE 18.29 mm, ME -17.10 mm (subestimação).
+- 4 h: GRU_4h_3d — RMSE 17.94 mm, ME -16.40 mm (subestimação).
+
+Leitura metodológica:
+- ME e viés negativos indicam subestimação; positivos indicam superestimação.
+- RMSE e MAE menores indicam maior proximidade das máximas observadas.
+- O resultado de 24 h não deve sustentar sozinho a superioridade de um método, pois é a escala diária de partida.
+- Como existem somente dois anos, os resultados são descritivos do teste de 2024–2025 e não demonstram significância estatística nem desempenho climatológico de longo prazo.

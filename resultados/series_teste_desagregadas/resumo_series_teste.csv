@@ -1,0 +1,10 @@
+intervalo_horas,janela_dias,modelo,arquivo_serie,inicio_teste,fim_teste,dias_simulaveis,dias_chuvosos_desagregados,dias_secos_preenchidos_zero,intervalos_no_csv,intervalos_com_falha,erro_conservacao_max_mm
+1,3,gru_1h_3d_32oc_r5.pt,serie_teste_gru_1h_janela3d.csv,2024-02-20,2025-09-26,585,231,354,14040,0,1.52587890625e-05
+1,5,gru_1h_5d_32oc_r5.pt,serie_teste_gru_1h_janela5d.csv,2024-02-20,2025-09-26,585,231,354,14040,0,7.62939453125e-06
+1,7,gru_1h_7d_32oc_r5.pt,serie_teste_gru_1h_janela7d.csv,2024-02-20,2025-09-26,585,231,354,14040,0,7.62939453125e-06
+2,3,gru_2h_3d_32oc_r5.pt,serie_teste_gru_2h_janela3d.csv,2024-02-20,2025-09-26,585,231,354,7020,0,1.52587890625e-05
+2,5,gru_2h_5d_32oc_r5.pt,serie_teste_gru_2h_janela5d.csv,2024-02-20,2025-09-26,585,231,354,7020,0,1.52587890625e-05
+2,7,gru_2h_7d_32oc_r5.pt,serie_teste_gru_2h_janela7d.csv,2024-02-20,2025-09-26,585,231,354,7020,0,1.52587890625e-05
+4,3,gru_4h_3d_32oc_r5.pt,serie_teste_gru_4h_janela3d.csv,2024-02-20,2025-09-26,585,231,354,3510,0,7.62939453125e-06
+4,5,gru_4h_5d_32oc_r5.pt,serie_teste_gru_4h_janela5d.csv,2024-02-20,2025-09-26,585,231,354,3510,0,7.62939453125e-06
+4,7,gru_4h_7d_32oc_r5.pt,serie_teste_gru_4h_janela7d.csv,2024-02-20,2025-09-26,585,231,354,3510,0,1.52587890625e-05
